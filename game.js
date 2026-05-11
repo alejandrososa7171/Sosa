@@ -10,3 +10,4 @@ function comprar() {
         msg.style.color = "#444";
     }
 }
+ 
